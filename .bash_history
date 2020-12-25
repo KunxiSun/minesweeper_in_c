@@ -1,0 +1,3 @@
+stdbuf
+stdbuf --help
+exit
